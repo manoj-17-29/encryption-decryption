@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Saira";
+    background: rgb(242, 242, 242);
+      background: radial-gradient(circle, rgba(242, 242, 242, 1) 74%, rgba(205, 205, 205, 1) 99%);
+}
+
